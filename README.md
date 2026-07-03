@@ -54,7 +54,7 @@ SUPABASE_KEY=your_supabase_anon_key
 
 Run the FastAPI server:
 ```bash
-uvicorn main:app --reload --port 8000
+py main.py
 ```
 
 ### 2. Frontend Setup
